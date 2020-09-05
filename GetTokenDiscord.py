@@ -5,6 +5,7 @@ import sys
 import subprocess
 import os
 
+print("Credit : Voxis")
 
 while True:
     email = str(input("Entrez votre email: "))
